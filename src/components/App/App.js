@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import Header from "../Header/Header";
 import ComponentTaskOne from "../ComponentTaskOne/ComponentTaskOne";
 import ComponentTaskTwo from "../ComponentTaskTwo/ComponentTaskTwo";
-import ComponentTaskThree from "./ComponentTaskThree/ComponentTaskThree";
+import ComponentTaskThree from "../ComponentTaskThree/ComponentTaskThree";
 
 class App extends Component {
   state = {
